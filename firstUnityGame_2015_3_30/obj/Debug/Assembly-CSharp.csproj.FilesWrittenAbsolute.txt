@@ -1,0 +1,11 @@
+/Users/user/Desktop/Unity/firstUnityGame_2015_3_30/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/user/Desktop/Unity/firstUnityGame_2015_3_30/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/user/Desktop/Unity/firstUnityGame_2015_3_30/obj/Debug/Assembly-CSharp.dll
+/Users/user/Desktop/Unity/firstUnityGame_2015_3_30/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/user/Desktop/Unity/firstUnityGame_2015_3_30/Temp/bin/Debug/UnityEngine.dll
+/Users/user/Desktop/Unity/firstUnityGame_2015_3_30/Temp/bin/Debug/UnityEditor.dll
+/Users/user/Desktop/Unity/firstUnityGame_2015_3_30/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/user/Desktop/Unity/firstUnityGame_2015_3_30/Temp/bin/Debug/Mono.Cecil.dll
+/Users/user/Desktop/Unity/firstUnityGame_2015_3_30/Temp/bin/Debug/nunit.framework.dll
+/Users/user/Desktop/Unity/firstUnityGame_2015_3_30/Temp/bin/Debug/Unity.DataContract.dll
+/Users/user/Desktop/Unity/firstUnityGame_2015_3_30/Temp/bin/Debug/ICSharpCode.NRefactory.dll
